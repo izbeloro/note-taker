@@ -14,6 +14,9 @@ This webpage was created to generate an html page generating a note taker. The u
 
 ## Usage
 
+![ScreenShot](./public/assets/images/shot.png)
+
+
 Link to Deployed Application: 
 Github Repo: https://github.com/izbeloro/note-taker
 
