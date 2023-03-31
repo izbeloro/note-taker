@@ -3,31 +3,29 @@
 
 ## Description
 
-This webpage was created to generate an html page generating a team. The user answers questions given and has the choice to add new team members or finish and create the team. Once the team is created, it reveals the html with updated information. This webpage displayed the acquired skills learned throughout the course displaying knowledge on HTML, CSS, CSS Framework Bootstrap, JavaScript and NodeJS. 
+This webpage was created to generate an html page generating a note taker. The user can insert notes as a to do list or event reminder. Once the note is created, it displays on the left hand side showing the main note. Once the note is clicked, ti then expands it on the right side showing the extra details. This webpage displayed the acquired skills learned throughout the course displaying knowledge on HTML, CSS, JavaScript, deployment through Heroku and NodeJS. 
 
 
 ## Tasks
-- Display data pulled from questions user answers in html format through terminal.
-- When finished with one staff member I am prompted to add a new member or create the html.
-- When all prompts are answered, the new html is generated.
+- Display data inserted by the user.
+- When finished with one note and saving it, it appears on the left hand side.
+- After saving the note, the criteria to enter a new note becomes blank to enter a new note.
 
 
 ## Usage
 
-Link to Deployed Application: N/A
-Github Repo: https://github.com/izbeloro/team-gen
-Video Walkthrough: 
+Link to Deployed Application: 
+Github Repo: https://github.com/izbeloro/note-taker
 
 
-To use this challenge, you have to run node. It then asks you a series of questions regarding your name, position, ID and phone number. From there it lets you build a team consisting of Intern, Manager, Employee, and Engineer. After all the questions are answered, it then creates a webpage containing all the information.
+To use this challenge, open the app in the browser. It then allows you to create a new note title and box for details about the note. After all the criterias are filled out and saved, it then posts it to the left and allows for a new note to be created.
 
 
 ## Credits
 
 - https://www.makeareadme.com/#license-1
-- https://www.digitalocean.com/community/tutorials/how-to-write-and-run-your-first-program-in-node-js
-- https://www.exefiles.com/en/js/node-js/
-- https://medium.com/northcoders/creating-a-project-generator-with-node-29e13b3cd309
+- https://www.geeksforgeeks.org/how-to-build-note-taking-application-using-node-js/
+- https://www.linode.com/content/code-a-note-taking-app-from-scratch-full-stack-html-css-javascript-node-js/
 
 
 ## License
