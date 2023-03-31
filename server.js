@@ -9,8 +9,8 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 app.use(express.static('public'));
 
-require('./routeFiles/api-route')(app);
-require('./routeFiles/html-route')(app);
+require('./RouteFiles/API-route')(app);
+require('./RouteFiles/Html-route')(app);
 app.listen(PORT, function() {
     console.log('Application listening http://localhost:' + PORT);
 });
